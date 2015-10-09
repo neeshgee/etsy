@@ -1,30 +1,24 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway|EB+Garamond);
 .container {
-  display: flex;
-}
+  display: flex; }
 
 h1 {
   color: #E65C00;
   font-family: 'EB Garamond', sans-serif;
-  font-size: 36px;
-
-}
+  font-size: 36px; }
 
 .head {
   display: inline-flex;
   border-bottom: 2px solid whitesmoke;
-  margin-left: 50px;
-}
+  margin-left: 50px; }
 
 .search {
   padding-top: 40px;
-  padding-left: 15px;
-}
+  padding-left: 15px; }
 
 .box {
   height: 25px;
-  width: 200px;
-}
+  width: 200px; }
 
 .button {
   margin-left: 0;
@@ -35,45 +29,32 @@ h1 {
   border-radius: 5px;
   border: 2px solid #0099CC;
   font-family: 'Raleway', sans-serif;
-  font-size: 12px;
-}
+  font-size: 12px; }
 
 nav {
-  padding-top: 40px;
-}
+  padding-top: 40px; }
 
 .nav {
   list-style: none;
-  margin-left: 40px;
-
-}
+  margin-left: 40px; }
 
 li {
   display: inline;
-  padding: 10px;
-}
-
-.sign {
-
-}
+  padding: 10px; }
 
 ul {
   display: inline;
-  padding-top: 45px;
-}
+  padding-top: 45px; }
 
 li a {
   font-family: 'Raleway', sans-serif;
   text-decoration: none;
   color: #0099CC;
-  font-size: 13px;
-}
+  font-size: 13px; }
 
 li a:hover {
-  text-decoration: underline;
-}
+  text-decoration: underline; }
 
 .sign {
   border: 1px solid #0099CC;
-  border-radius: 15px;
-}
+  border-radius: 15px; }

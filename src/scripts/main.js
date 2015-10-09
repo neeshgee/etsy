@@ -1,7 +1,8 @@
 import $ from 'jquery';
 import _ from 'underscore';
 import Backbone from 'backbone';
+import Router from './router';
 
 $(() => {
-  // Ready!
+  var router = new Router();
 });
