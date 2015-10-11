@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway|EB+Garamond);
 .container {
-  display: flex; }
+  display: flex;
+  margin-top: 20px;
+  margin-left: 30px; }
 
 h1 {
   color: #E65C00;
